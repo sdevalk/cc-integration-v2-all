@@ -35,7 +35,7 @@ WHERE {
 
   ?this a dcat:Dataset ;
     dct:title ?title ;
-    dct:license ?license ;
+    dct:license ?license ; # Licenses can be literals, not IRIs. Convert if necessary: BIND(IRI(?tmpLicense) AS ?license)
     dct:publisher ?publisher .
 
   OPTIONAL { ?this dct:description ?description }
