@@ -8,7 +8,7 @@ on:
 
 # Run a single workflow at a time
 concurrency:
-  group: runners
+  group: knowledge-graph
 
 jobs:
   run:

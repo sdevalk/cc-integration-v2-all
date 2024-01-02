@@ -6,7 +6,7 @@ on:
 
 # Run a single workflow at a time
 concurrency:
-  group: runners
+  group: search-graph
 
 jobs:
   run:
