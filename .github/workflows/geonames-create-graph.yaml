@@ -8,7 +8,7 @@ on:
 
 # Run a single workflow at a time
 concurrency:
-  group: ${{ github.workflow }}
+  group: runners
 
 jobs:
   run:
