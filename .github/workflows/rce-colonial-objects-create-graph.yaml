@@ -30,7 +30,7 @@ jobs:
           cd ./code
           npm ci
           npx turbo run build --filter=@colonial-collections/graph-create
-      - name: Create or update a graph by querying a SPARQL endpoint
+      - name: Create a graph by querying a SPARQL endpoint
         run: |
           cd ./data
           mkdir -p "$RUNNER_TEMP"
