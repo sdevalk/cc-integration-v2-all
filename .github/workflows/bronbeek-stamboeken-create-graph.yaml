@@ -1,5 +1,6 @@
 name: Update Search Graph with data from dataset 'Stamboeken' in the Knowledge Graph
 
+# Every hour
 on:
   schedule:
     - cron: "0 * * * *"
