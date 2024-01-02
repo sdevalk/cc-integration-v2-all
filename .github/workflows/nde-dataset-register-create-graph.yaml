@@ -1,8 +1,8 @@
-name: Update Knowledge Graph with dataset descriptions from the NDE Dataset Register
+name: Update Knowledge Graph with data from the NDE Dataset Register
 
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 * * * *"
 
 # Run a single workflow at a time
 concurrency:
