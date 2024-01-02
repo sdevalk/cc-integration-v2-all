@@ -1,8 +1,8 @@
 name: Update Search Graph with data from dataset 'Colonial Objects' in the Knowledge Graph
 
 on:
-  push:
-    branches: ["main"]
+  schedule:
+    - cron: "0 * * * *"
 
 # Run a single workflow at a time
 concurrency:
