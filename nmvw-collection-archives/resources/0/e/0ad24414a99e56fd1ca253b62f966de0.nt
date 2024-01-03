@@ -6,7 +6,7 @@
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#yearCreatedEnd> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#locationCreated> "Pegunungan Maoke" .
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#alternateName> "Sneeuw-gebergte" .
-<https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#alternateName> "Central Mountains" .
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#alternateName> "Snow Mountains" .
+<https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#alternateName> "Central Mountains" .
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#alternateName> "Pegunungan Maoke" .
 <https://n2t.net/ark:/27023/0fd0afd0b30c0cc4404435ea49c75139> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

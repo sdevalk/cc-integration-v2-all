@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#creator> "P. (Pascal) Sébah" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#locationCreated> "Istanbul" .
-<https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Byzantium"@en .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Konstantinoupolis" .
+<https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Byzantium"@en .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Constantinopoli" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Constantinople"@en .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Stambul" .
@@ -15,7 +15,7 @@
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Byzantion" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Kustantiniyah" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Konstantinopel" .
-<https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Κωνσταντινούπολις" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Istambul" .
+<https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Κωνσταντινούπολις" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#alternateName> "Istamboul" .
 <https://n2t.net/ark:/27023/0bb502c22da0dc84ddd8b180d54fa029> <https://colonialcollections.nl/schema#countryCreated> "Türkiye" .

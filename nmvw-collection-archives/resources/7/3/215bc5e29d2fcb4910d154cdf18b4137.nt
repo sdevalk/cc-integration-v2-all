@@ -6,6 +6,6 @@
 <https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#yearCreatedEnd> "1881"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#locationCreated> "Vanuatu" .
-<https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#alternateName> "New Hebrides Condominium" .
 <https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#alternateName> "Republic of Vanuatu"@en .
+<https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#alternateName> "New Hebrides Condominium" .
 <https://n2t.net/ark:/27023/0ac730d85293e4b662a8f71f6285b277> <https://colonialcollections.nl/schema#countryCreated> "Vanuatu" .

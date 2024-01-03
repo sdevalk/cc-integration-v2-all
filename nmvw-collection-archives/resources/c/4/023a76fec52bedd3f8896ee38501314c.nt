@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#yearCreatedStart> "1926"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1928"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#locationCreated> "Algeria" .
-<https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "La République Algérienne Démocratique et Populaire" .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "Democratic and Popular Republic of Algeria" .
+<https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "La République Algérienne Démocratique et Populaire" .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "La République Algérienne" .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "L’Etat Algerien" .
 <https://n2t.net/ark:/27023/1000588c1bb0a13399e151f0a8a306e0> <https://colonialcollections.nl/schema#alternateName> "People’s Democratic Republic of Algeria"@en .

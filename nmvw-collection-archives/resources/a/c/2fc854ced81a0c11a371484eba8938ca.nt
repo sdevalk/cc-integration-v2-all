@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#creator> "dhr. Ahmet Yildiz" .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#yearCreatedEnd> "1996"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#locationCreated> "Kütahya" .
-<https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Kutaia" .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Cotyaeum" .
+<https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Kutaia" .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Kutaya" .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Kutahiyah" .
 <https://n2t.net/ark:/27023/132ff799359d76e9ba82b05123666335> <https://colonialcollections.nl/schema#alternateName> "Kütahya" .

@@ -7,6 +7,6 @@
 <https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#yearCreatedEnd> "1966"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#locationCreated> "Malawi" .
 <https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#alternateName> "Nyasaland" .
-<https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#alternateName> "Malawi" .
 <https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#alternateName> "Republic of Malawi" .
+<https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#alternateName> "Malawi" .
 <https://n2t.net/ark:/27023/0a2a766f0ed81339b3d662d3bb802f51> <https://colonialcollections.nl/schema#countryCreated> "Malawi" .

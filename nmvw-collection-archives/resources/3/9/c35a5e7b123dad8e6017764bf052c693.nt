@@ -6,8 +6,8 @@
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1891"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#locationCreated> "Yap Island" .
-<https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Waqab" .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Heap" .
+<https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Waqab" .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Ouap" .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Uyap" .
 <https://n2t.net/ark:/27023/02ce8fd32a15455fcc1458d40af637a0> <https://colonialcollections.nl/schema#alternateName> "Rull" .

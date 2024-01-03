@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#locationCreated> "Maroni" .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowyne" .
-<https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowijne-Rivière" .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowijne" .
+<https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowijne-Rivière" .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowijne Rivier" .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Marowijne River" .
 <https://n2t.net/ark:/27023/17da85432b306126c4666dfb25b6634a> <https://colonialcollections.nl/schema#alternateName> "Fleuve Maroni" .

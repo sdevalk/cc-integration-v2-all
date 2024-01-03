@@ -4,8 +4,8 @@
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#publisher> "Nationaal Museum van Wereldculturen" .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#yearCreatedEnd> "1931"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#locationCreated> "Calang" .
-<https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#alternateName> "Tjalang" .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#alternateName> "Calong" .
+<https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#alternateName> "Tjalang" .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#alternateName> "Tyalang" .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#alternateName> "Chalang" .
 <https://n2t.net/ark:/27023/131e0a4e4c6c6d14fbb6222371af9649> <https://colonialcollections.nl/schema#countryCreated> "Indonesia" .

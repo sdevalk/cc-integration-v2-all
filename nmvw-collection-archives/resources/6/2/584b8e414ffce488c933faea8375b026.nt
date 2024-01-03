@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#yearCreatedStart> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#yearCreatedEnd> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#locationCreated> "Morocco" .
-<https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "Marrakesh" .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "Moghreb-el-Aksa" .
+<https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "Marrakesh" .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "Marruecos" .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "El Maghreb el Aqsa" .
 <https://n2t.net/ark:/27023/0140ae99a16fd81a86332de114d993f0> <https://colonialcollections.nl/schema#alternateName> "Maroc" .

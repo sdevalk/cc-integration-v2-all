@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#yearCreatedEnd> "1915"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#locationCreated> "Papua" .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#locationCreated> "West Papua" .
-<https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "West Irian" .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "Propinsi Irian Barat" .
+<https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "West Irian" .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "Propinsi Irian Jaya" .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "Irian" .
 <https://n2t.net/ark:/27023/12b8ac72bb2c976c3968b5310be1f58f> <https://colonialcollections.nl/schema#alternateName> "West New Guinea" .

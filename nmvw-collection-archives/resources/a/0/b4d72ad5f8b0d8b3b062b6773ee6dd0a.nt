@@ -8,8 +8,8 @@
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#yearCreatedEnd> "1903"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#locationCreated> "Jakarta" .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Djakarta"@en .
-<https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Jakarta"@en .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Batavia"@en .
+<https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Jakarta"@en .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Big Durian"@en .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Djogkarta" .
 <https://n2t.net/ark:/27023/03335891d4d29354346d8c88b1920726> <https://colonialcollections.nl/schema#alternateName> "Sunda Kelapa" .

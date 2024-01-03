@@ -7,8 +7,8 @@
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#yearCreatedEnd> "1974"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#locationCreated> "Damascus" .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Esh Shām" .
-<https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Dammeseq" .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Damas" .
+<https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Dammeseq" .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Cham" .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Dimashq" .
 <https://n2t.net/ark:/27023/0be3ffed7a8490b63b8e62e6f28b283b> <https://colonialcollections.nl/schema#alternateName> "Dimashk" .

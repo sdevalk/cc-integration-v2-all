@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#yearCreatedEnd> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#locationCreated> "Aceh" .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Propinsi Atjeh" .
-<https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Propinsi Nanggroe Aceh Darussalam" .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Daerah Istimewa Atjeh" .
+<https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Propinsi Nanggroe Aceh Darussalam" .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Daerah Istimewa Aceh" .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Achin" .
 <https://n2t.net/ark:/27023/092ba7b49b4f29004f0a6cac1ce155d2> <https://colonialcollections.nl/schema#alternateName> "Acheh" .

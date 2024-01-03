@@ -7,7 +7,7 @@
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#yearCreatedEnd> "1887"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#locationCreated> "New Hanover" .
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#alternateName> "New Hanover" .
-<https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#alternateName> "Labongai" .
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#alternateName> "Lavongai" .
+<https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#alternateName> "Labongai" .
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#alternateName> "Neu-Hannover" .
 <https://n2t.net/ark:/27023/093835b2a5ca146f8553c28712301233> <https://colonialcollections.nl/schema#countryCreated> "Papua New Guinea" .

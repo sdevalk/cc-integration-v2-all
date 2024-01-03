@@ -7,11 +7,11 @@
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#yearCreatedStart> "1886"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#yearCreatedEnd> "1890"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#locationCreated> "Amoy" .
-<https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Shamen" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming" .
+<https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Shamen" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Amoy"@en .
-<https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming-hsien" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Xiamen Shi" .
+<https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Ssu-ming-hsien" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Siamen" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Szeming-hsien" .
 <https://n2t.net/ark:/27023/012646b36531fde2e8c00db187331edc> <https://colonialcollections.nl/schema#alternateName> "Hsia-men" .

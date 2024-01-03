@@ -5,8 +5,8 @@
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#yearCreatedEnd> "1968"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#locationCreated> "Maroni" .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "De Marowijne" .
-<https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Fleuve Maroni" .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Marowijne" .
+<https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Fleuve Maroni" .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Rivier Maroni" .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Rivière Maroni" .
 <https://n2t.net/ark:/27023/12a7d71bbb48ab3726afe2d265e07cd0> <https://colonialcollections.nl/schema#alternateName> "Maroni"@en .
